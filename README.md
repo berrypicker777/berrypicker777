@@ -29,9 +29,5 @@
   <img src="https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=Trello&logoColor=0052CC"/>
 </p>
 
-## Github Stats
-![dltmdalssssss's GitHub stats](https://github-readme-stats.vercel.app/api?username=berrypicker777&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berrypicker777&layout=compact&theme=dark)
-
 ## PS
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hol1319)](https://solved.ac/hol1319)
