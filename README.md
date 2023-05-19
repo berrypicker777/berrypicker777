@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=for-the-badge" />
 </p>
 <p>
+  <img src="https://img.shields.io/badge/JSP-black?style=for-the-badge" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
 </p>
