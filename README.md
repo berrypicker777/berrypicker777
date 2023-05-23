@@ -18,8 +18,8 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/H2-0052CC?style=for-the-badge&logo=h2" />
-  <img src="https://img.shields.io/badge/MariaDB-white?style=for-the-badge&logo=MariaDB&logoColor=003545"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-white?style=for-the-badge&logo=MariaDB&logoColor=003545"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
