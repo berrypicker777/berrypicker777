@@ -1,6 +1,11 @@
-## 안녕하세요! 행복을 전하고 싶은 백엔드 개발자 이승민입니다.
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=120&animation=fadeIn&section=header&fontAlign=70)
 
-## Tech Stacks
+</div>
+
+<h2 align="center">⚒️ Tech Stacks</h2>
+<div align="center">
 <p>
   <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
@@ -34,6 +39,19 @@
   <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=181717"/>
   <img src="https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=Trello&logoColor=0052CC"/>
 </p>
+</div>
 
-## PS
+</div>
+<div align="center">
+<br>
+<h2 align="center">🧩 Problem Solving</h2>
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hol1319)](https://solved.ac/hol1319)
+
+<br>
+<h2 align="center">🏫 University</h2>
+<p align="center">
+Myonji University — <em>Computer Engineering &nbsp; MAR  2018 - FEB 2023</em>
+</p>   
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=120&animation=fadeIn&section=footer&fontAlign=70)
