@@ -14,9 +14,6 @@
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/JSP-black?style=flat" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
