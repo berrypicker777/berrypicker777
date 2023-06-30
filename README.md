@@ -51,7 +51,7 @@
 <br>
 <h2 align="center">🏫 University</h2>
 <p align="center">
-Myonji University — <em>Computer Engineering &nbsp; MAR  2018 - FEB 2023</em>
+Myonji University — <em>Computer Engineering &nbsp; MAR  2018 - AUG 2023</em>
 </p>   
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=120&animation=fadeIn&section=footer&fontAlign=70)
