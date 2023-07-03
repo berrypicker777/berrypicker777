@@ -1,4 +1,4 @@
-<div align=center>
+ <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=120&animation=fadeIn&section=header&fontAlign=70)
 
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/AWS%20CloudFront-FF5500?style=flat&logo=amazons3&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/H2-0052CC?style=flat&logo=h2" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-white?style=flat&logo=MariaDB&logoColor=003545"/>
