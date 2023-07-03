@@ -4,7 +4,7 @@
 
 </div>
 
-<h2 align="center">⚒️ Tech Stacks</h2>
+<h2 align="center">⚒️ Tech Stack</h2>
 <div align="center">
 <p>
   <img src="https://img.shields.io/badge/Java-007396?&style=flat&logo=OpenJDK&logoColor=white">
