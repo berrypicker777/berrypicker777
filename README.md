@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20CloudFront-FF5500?style=flat&logo=amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS Code%20Deploy-2F93E0?style=flat" />
 </p>
