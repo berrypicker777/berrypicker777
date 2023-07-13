@@ -48,7 +48,11 @@
 <br>
 <h2 align="center">🏫 University</h2>
 <p align="center">
-Myonji University — <em>Computer Engineering &nbsp; 2018.03 ~ 2023.08</em>
+ 
+|Name|Major|Date|
+|:---:|:---:|:---:|
+|명지대학교|컴퓨터공학|2018.03 ~ 2023.08|
+
 </p>   
 <br>
 <h2 align="center">🧩 Activity</h2>
