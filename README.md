@@ -13,18 +13,18 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat" />
 </p>
+ <p>
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/H2-0052CC?style=flat&logo=h2" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-white?style=flat&logo=MariaDB&logoColor=003545"/>
+</p>
 <p>
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS Code%20Deploy-2F93E0?style=flat" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/H2-0052CC?style=flat&logo=h2" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-white?style=flat&logo=MariaDB&logoColor=003545"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Sentry-black?style=flat&logo=Sentry&logoColor=#362D59" />
