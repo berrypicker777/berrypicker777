@@ -30,11 +30,11 @@
   <img src="https://img.shields.io/badge/Sentry-black?style=flat&logo=Sentry&logoColor=#362D59" />
 </p>
 <p>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000&style=flat" />
+  <img src="https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=flat" />
   <img src="https://img.shields.io/badge/Git-black?style=flat&logo=Git&logoColor=F05032"/> 
   <img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=181717"/>
   <img src="https://img.shields.io/badge/Trello-black?style=flat&logo=Trello&logoColor=0052CC"/>
-  <img src="https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=flat" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000&style=flat" />
 </p>
 </div>
 
